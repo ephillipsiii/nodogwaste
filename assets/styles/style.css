@@ -1,3 +1,24 @@
-body {
-    background-color: blue;
+.header{
+    text-align: center;
+}
+
+.blockText{
+    text-align: center;
+    font-size: 40px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.noPoopSign{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.blockText2{
+    text-align: center;
+    font-size: 40px;
 }
